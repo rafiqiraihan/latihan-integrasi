@@ -1,2 +1,2 @@
 # latihan-integrasi
-Menjalankan project
+Menjalankan project untuk latihan
